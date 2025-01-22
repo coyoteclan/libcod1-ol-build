@@ -6,7 +6,4 @@ So, I made a script for doing this in a github codespace.
 
 ## Usage
 
- <video controls>
-  <source src="lc-build.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+https://github.com/coyoteclan/libcod1-ol-build/raw/refs/heads/main/lc-build.mp4

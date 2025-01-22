@@ -5,3 +5,5 @@ Dual booting Debian 10 or using virtual machine wasn't convinient for me.
 So, I made a script for doing this in a github codespace.
 
 ## Usage
+
+<video src="lc-build.mp4">

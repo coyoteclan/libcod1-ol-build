@@ -6,4 +6,4 @@ So, I made a script for doing this in a github codespace.
 
 ## Usage
 
-https://github.com/coyoteclan/libcod1-ol-build/raw/refs/heads/main/lc-build.mp4
+<video src='lc-build.mp4' width=360/>

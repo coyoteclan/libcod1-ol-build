@@ -6,5 +6,5 @@ So, I made a script for doing this in a github codespace.
 
 ## Usage
 
-https://github.com/user-attachments/assets/af15ad50-0fa7-4185-bbef-ca95cb81389e
+https://github.com/user-attachments/assets/cc2a3f94-6d4d-4c23-ab13-3664ce746c75
 

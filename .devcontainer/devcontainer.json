@@ -5,8 +5,5 @@
   },
   "extensions": [
     "ms-vscode.cpptools"
-  ],
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
-  }
+  ]
 }

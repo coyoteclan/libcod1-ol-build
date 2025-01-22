@@ -6,6 +6,5 @@ So, I made a script for doing this in a github codespace.
 
 ## Usage
 
-https://github.com/coyoteclan/libcod1-ol-build/blob/e0d75e9fe3f7972824dab3f55a2d63c3ce2d6b5b/lc-build.mp4
+https://github.com/user-attachments/assets/af15ad50-0fa7-4185-bbef-ca95cb81389e
 
-<video src='lc-build.mov'/>

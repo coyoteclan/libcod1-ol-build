@@ -6,4 +6,7 @@ So, I made a script for doing this in a github codespace.
 
 ## Usage
 
-<video src="lc-build.mp4">
+ <video controls>
+  <source src="lc-build.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 

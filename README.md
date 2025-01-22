@@ -6,4 +6,4 @@ So, I made a script for doing this in a github codespace.
 
 ## Usage
 
-<video src='lc-build.mp4' width=360/>
+<video src='lc-build.mp4' width=360/></video>
